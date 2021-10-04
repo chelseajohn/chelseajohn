@@ -18,8 +18,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.haskell.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/haskell.png"/></a>
-</p>
+    <a href="https://www.haskell.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/haskell.png"/></a></p>
 
 ## Connect with me:
 <p align="left">
