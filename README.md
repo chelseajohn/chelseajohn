@@ -22,4 +22,4 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/chelsea-john-19a295135//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a></p>
+<a href = "https://www.linkedin.com/in/chelsea-john-19a295135//" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a></p>
