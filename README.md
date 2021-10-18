@@ -1,5 +1,6 @@
-
-<img src="https://user-images.githubusercontent.com/36626249/136022363-2f637c13-0670-493f-9795-a250863867fd.png" />
+<p align="center">
+<img src="https://user-images.githubusercontent.com/36626249/137774921-1cace837-1b9a-452a-86fb-2afc7ce341bb.png" height="250px" />
+</p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chelsea </h1>
 <h3 align="center">I'm a Physics Graduate with keen interest in Machine Learning and AI.</h3>
 
