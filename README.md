@@ -2,12 +2,12 @@
 <img src="https://user-images.githubusercontent.com/36626249/137774921-1cace837-1b9a-452a-86fb-2afc7ce341bb.png" height="250px" />
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chelsea </h1>
-<h3 align="center">I'm a Physics postgraduate with keen interest in Machine Learning and AI.</h3>
+<h3 align="center">I'm a Physics postgraduate with keen interest in AI and HPC.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Imporving HMC using Machine Learning methods in sumilations of Hubabrd Model**
+- 🔭 I’m currently working on **OpenGPTX Project**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
