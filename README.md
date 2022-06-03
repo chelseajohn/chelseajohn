@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/36626249/137774921-1cace837-1b9a-452a-86fb-2afc7ce341bb.png" height="250px" />
 </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Chelsea </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" height="30px">, I'm Chelsea </h1>
 <h3 align="center">I'm a Physics postgraduate with keen interest in AI and HPC.</h3>
 
 
