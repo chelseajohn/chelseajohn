@@ -7,7 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **OpenGPTX Project**
+- 🔭 I’m currently working on [OpenGPTX Project](https://opengpt-x.de/)
+
+- Interested in machine learning and high performance computing
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
