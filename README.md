@@ -5,7 +5,7 @@
 <h3 align="center">I'm a Physics postgraduate with keen interest in AI and HPC.</h3>
 
 
-## 🙋‍♂️ About Me
+## :woman: About Me
 
 - 🔭 I’m currently working on [OpenGPTX Project](https://opengpt-x.de/)
 
