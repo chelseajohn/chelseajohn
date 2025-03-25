@@ -7,7 +7,7 @@
 
 ## :woman: About Me
 
-- 🔭 I’m currently working on [OpenGPTX Project](https://opengpt-x.de/) and Neural Operators.
+- 🔭 HPC for AI and Neural Operators.
 
 - Interested in machine learning and high performance computing
 
